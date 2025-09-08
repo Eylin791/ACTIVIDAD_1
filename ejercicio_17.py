@@ -29,5 +29,3 @@ class Calculos:
 if __name__ == "__main__":
   calculos = Calculos()
   calculos.main()
-
-  
